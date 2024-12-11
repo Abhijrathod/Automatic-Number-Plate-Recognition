@@ -41,7 +41,7 @@ numpy==1.26.0
 opencv-python-headless==4.8.0.76
 packaging==23.1
 pandas==2.1.0
-Pillow==10.0.0
+Pillow==9.5.0  # Downgraded to resolve conflicts
 protobuf==4.24.0
 psutil==5.9.5
 py-cpuinfo==9.0.0
