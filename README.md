@@ -26,8 +26,10 @@ Ensure you have the following installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/Abhijrathod/blank-app.git
-cd blank-app
+git clone https://github.com/Abhijrathod/Automatic-Number-Plate-Recognition.git
+cd Automatic-Number-Plate-Recognition
+
+
 
 Here’s the content formatted into a proper Markdown (.md) file:
 
