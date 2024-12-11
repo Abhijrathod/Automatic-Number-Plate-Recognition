@@ -130,5 +130,5 @@ Contributions are welcome! Please follow these steps to contribute:
 If you have any questions or issues with the app, feel free to reach out:
 
     Author: Abhijrathod
-    Email: ralhanprateek@gmail.com
+    Email: Abhijrathod001@gmail.com
 
